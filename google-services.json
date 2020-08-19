@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "850143606973",
+    "firebase_url": "https://bharatmart-dc809.firebaseio.com",
+    "project_id": "bharatmart-dc809",
+    "storage_bucket": "bharatmart-dc809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850143606973:android:c9a442ebd860adec07dfd4",
+        "android_client_info": {
+          "package_name": "com.satyam.bharatmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850143606973-6uk7ti58m7i5jrnut2qc15e54gu2kq08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcf8SC0OZ5i0aFtPHOqV9JIpIHm7gI0b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850143606973-6uk7ti58m7i5jrnut2qc15e54gu2kq08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850143606973:android:80a7f6998aad549807dfd4",
+        "android_client_info": {
+          "package_name": "com.satyam.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850143606973-tegeldtn2o86jpk26hh2jrt8uu118cpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyam.seller",
+            "certificate_hash": "ad01abf7ce7145e675b2e938c6557f6ea6395e66"
+          }
+        },
+        {
+          "client_id": "850143606973-6uk7ti58m7i5jrnut2qc15e54gu2kq08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcf8SC0OZ5i0aFtPHOqV9JIpIHm7gI0b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850143606973-6uk7ti58m7i5jrnut2qc15e54gu2kq08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
